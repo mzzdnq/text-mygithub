@@ -12,10 +12,12 @@ public class TestGitClass{
         System.out.println("eeeeeeeeeeeeeeeeeeeeee");
         System.out.println("eeeeeeeeeeeeeeeeeeeeee");
         System.out.println("eeeeeeeeeeeeeeeeeeeeee ");
+        //helloTestGitClass
     }
 
     public void test1(){
         int i = 0;
        i+=5;
+        System.out.println(i);
     }
 }
